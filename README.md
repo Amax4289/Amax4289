@@ -7,7 +7,9 @@ Last Year Computer Science Student BSc
 * 🌍  I'm based in Cyprus
 * 💻  I'm studying Computer Science at UOC Heraklion
 * ⚡  I love Star Wars
-
+--------------------------------------
+![star-wars](https://user-images.githubusercontent.com/103049768/167387120-38c3d5d5-5827-4189-9180-25168d12ee4f.gif)
+--------------------------------------
 ### Skills
 
 <p align="left">
